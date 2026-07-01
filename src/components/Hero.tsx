@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react'
 import { motion } from 'framer-motion'
 import { ArrowDown, Sparkles } from 'lucide-react'
-import profile from '../assets/WhatsApp Image 2026-06-08 at 20.09.10 (2).jpeg'
+import profile from '../assets/abhi-logo.png'
 
 
 // Animated particle canvas background
